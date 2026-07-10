@@ -1,0 +1,15 @@
+.env
+
+myenv/
+
+venv/
+
+__pycache__/
+
+*.pyc
+
+*.pyo
+
+*.pyd
+
+requirements-myenv.txt
