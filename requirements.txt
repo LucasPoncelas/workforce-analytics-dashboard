@@ -1,0 +1,9 @@
+Faker==37.0.0
+mimesis
+mysql-connector-python
+numpy
+pandas
+pgeocode
+pycountry==23.12.11
+python-dotenv
+SQLAlchemy
