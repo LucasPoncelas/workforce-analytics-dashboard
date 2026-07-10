@@ -345,8 +345,8 @@ Populate MySQL database
       │
       ▼
 Export workforce_dataset.csv
-```
 
+```
 Each execution recreates the database tables, generating a completely new synthetic dataset. As a result, both the MySQL database and the exported CSV always remain synchronized.
 ```
 
