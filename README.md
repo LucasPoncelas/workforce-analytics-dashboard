@@ -413,12 +413,6 @@ This project was developed as part of my Business Intelligence portfolio to demo
 
 ---
 
-## Acknowledgements
-
-This project was developed for educational and portfolio purposes, demonstrating an end-to-end Business Intelligence workflow using synthetic data.
-
----
-
 # License
 
 This project is licensed under the MIT License.
